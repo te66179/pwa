@@ -1,12 +1,12 @@
 {
-    "name": "bluerhinos/phpmqtt",
+    "name": "pwa/phpmqtt",
     "description": "Simple MQTT Class",
     "license": "BSD",
     "type": "library",
     "authors": [
         {
-            "name": "Andrew Milsted",
-            "email": "andrew@bluerhinos.co.uk"
+            "name": "Montree Prompinun",
+            "email": "te66179@gmail.com"
         }
     ],
     "minimum-stability": "dev",
